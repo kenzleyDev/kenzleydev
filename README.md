@@ -1,6 +1,6 @@
 ### Olá eu sou o Luan Kenzley!
 
-- 🔭 Hoje eu trabalho com backaend e possuo conhecimento em Angular
+- 🔭 Hoje eu trabalho com backend e possuo conhecimento em Angular
 - 🌱 Estudando AWS
 - 💬 Contate-me no email: kenzleydev@outlook.com
 - 😄 Pronouns: ele/dele
