@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenzleydev&label=Profile%20views&color=0e75b6&style=flat" alt="kenzleydev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenzleydev" alt="kenzleydev" /></a> </p>
 
 <h3 align="left">Contate-me:</h3>
 <p align="left">
